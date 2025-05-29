@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Atef</h1>
 <h3 align="center">Aspiring Junior Data Scientist with a strong foundation in Python, R, and machine learning. Skilled in data engineering, statistical analysis, and predictive modeling. Advanced understanding of statistical, algebraic and other analytical techniques. Highly motivated and diligent with a significant background in Data analytics</h3>
 
-- 🔭 I’m currently working on [Loan Default Prediction](https://github.com/Abdallah1Atef/Loan-Prediction)
-
-- 🌱 I’m currently learning **FastAPI for backend development, Docker and Kubernetes for ML deployment, Deep Learning Specialization by Andrew Ng (Coursera)**
+- 🌱 I’m currently learning **FastAPI for backend development, Docker and Kubernetes for ML deployment
 
 - 🤝 I’m looking for help with **Advanced Machine Learning Deployment**
 
